@@ -1,0 +1,491 @@
+﻿index,team,player_1,player_2,score_1,score_2
+0,Kolkata Knight Riders,N Rana,Shubman Gill,38,15
+1,Kolkata Knight Riders,RA Tripathi,N Rana,53,40
+2,Kolkata Knight Riders,AD Russell,N Rana,5,1
+3,Kolkata Knight Riders,EJG Morgan,N Rana,2,1
+4,Kolkata Knight Riders,KD Karthik,EJG Morgan,0,0
+5,Kolkata Knight Riders,KD Karthik,Shakib Al Hasan,22,3
+,,,,,
+6,Kolkata Knight Riders,N Rana,Shubman Gill,37,33
+7,Kolkata Knight Riders,RA Tripathi,N Rana,5,7
+8,Kolkata Knight Riders,EJG Morgan,N Rana,7,8
+9,Kolkata Knight Riders,Shakib Al Hasan,N Rana,9,5
+10,Kolkata Knight Riders,KD Karthik,Shakib Al Hasan,0,0
+11,Kolkata Knight Riders,KD Karthik,AD Russell,8,9
+12,Kolkata Knight Riders,KD Karthik,PJ Cummins,0,0
+13,Kolkata Knight Riders,Harbhajan Singh,KD Karthik,2,0
+,,,,,
+14,Kolkata Knight Riders,N Rana,Shubman Gill,1,21
+15,Kolkata Knight Riders,RA Tripathi,N Rana,25,9
+16,Kolkata Knight Riders,EJG Morgan,N Rana,1,8
+17,Kolkata Knight Riders,KD Karthik,EJG Morgan,2,4
+18,Kolkata Knight Riders,EJG Morgan,Shakib Al Hasan,24,16
+19,Kolkata Knight Riders,Shakib Al Hasan,AD Russell,10,30
+20,Kolkata Knight Riders,AD Russell,PJ Cummins,0,6
+21,Kolkata Knight Riders,Harbhajan Singh,AD Russell,0,1
+22,Kolkata Knight Riders,Harbhajan Singh,CV Varun,2,2
+,,,,,
+23,Kolkata Knight Riders,N Rana,Shubman Gill,1,0
+24,Kolkata Knight Riders,RA Tripathi,N Rana,6,8
+25,Kolkata Knight Riders,EJG Morgan,RA Tripathi,7,2
+26,Kolkata Knight Riders,SP Narine,RA Tripathi,4,0
+27,Kolkata Knight Riders,KD Karthik,RA Tripathi,0,0
+28,Kolkata Knight Riders,KD Karthik,AD Russell,24,54
+29,Kolkata Knight Riders,KD Karthik,PJ Cummins,16,18
+30,Kolkata Knight Riders,PJ Cummins,KL Nagarkoti,30,0
+31,Kolkata Knight Riders,PJ Cummins,CV Varun,17,0
+32,Kolkata Knight Riders,PJ Cummins,M Prasidh Krishna,1,0
+,,,,,
+33,Kolkata Knight Riders,N Rana,Shubman Gill,11,11
+34,Kolkata Knight Riders,RA Tripathi,N Rana,10,11
+35,Kolkata Knight Riders,SP Narine,RA Tripathi,6,3
+36,Kolkata Knight Riders,EJG Morgan,RA Tripathi,0,7
+37,Kolkata Knight Riders,KD Karthik,RA Tripathi,15,16
+38,Kolkata Knight Riders,KD Karthik,AD Russell,10,9
+39,Kolkata Knight Riders,KD Karthik,PJ Cummins,0,1
+40,Kolkata Knight Riders,PJ Cummins,Shivam Mavi,9,5
+41,Kolkata Knight Riders,M Prasidh Krishna,Shivam Mavi,0,0
+,,,,,
+42,Kolkata Knight Riders,N Rana,Shubman Gill,0,5
+43,Kolkata Knight Riders,RA Tripathi,Shubman Gill,0,4
+44,Kolkata Knight Riders,SP Narine,RA Tripathi,0,6
+45,Kolkata Knight Riders,EJG Morgan,RA Tripathi,2,35
+46,Kolkata Knight Riders,EJG Morgan,AD Russell,5,10
+47,Kolkata Knight Riders,KD Karthik,EJG Morgan,12,16
+,,,,,
+48,Kolkata Knight Riders,N Rana,Shubman Gill,15,10
+49,Kolkata Knight Riders,RA Tripathi,Shubman Gill,19,24
+50,Kolkata Knight Riders,EJG Morgan,Shubman Gill,0,4
+51,Kolkata Knight Riders,SP Narine,Shubman Gill,0,1
+52,Kolkata Knight Riders,AD Russell,Shubman Gill,3,4
+53,Kolkata Knight Riders,KD Karthik,AD Russell,14,13
+54,Kolkata Knight Riders,AD Russell,PJ Cummins,29,11
+,,,,,
+55,Kolkata Knight Riders,VR Iyer,Shubman Gill,29,48
+56,Kolkata Knight Riders,AD Russell,VR Iyer,0,12
+,,,,,
+57,Kolkata Knight Riders,VR Iyer,Shubman Gill,27,13
+58,Kolkata Knight Riders,RA Tripathi,VR Iyer,55,26
+59,Kolkata Knight Riders,EJG Morgan,RA Tripathi,7,12
+60,Kolkata Knight Riders,RA Tripathi,N Rana,7,5
+,,,,,
+61,Kolkata Knight Riders,VR Iyer,Shubman Gill,1,9
+62,Kolkata Knight Riders,RA Tripathi,VR Iyer,21,17
+63,Kolkata Knight Riders,EJG Morgan,RA Tripathi,8,12
+64,Kolkata Knight Riders,RA Tripathi,N Rana,12,7
+65,Kolkata Knight Riders,AD Russell,N Rana,20,13
+66,Kolkata Knight Riders,KD Karthik,N Rana,26,13
+67,Kolkata Knight Riders,SP Narine,N Rana,0,4
+,,,,,
+68,Kolkata Knight Riders,VR Iyer,Shubman Gill,14,13
+69,Kolkata Knight Riders,RA Tripathi,Shubman Gill,9,6
+70,Kolkata Knight Riders,N Rana,Shubman Gill,12,11
+71,Kolkata Knight Riders,EJG Morgan,N Rana,0,0
+72,Kolkata Knight Riders,KD Karthik,N Rana,12,17
+73,Kolkata Knight Riders,SP Narine,N Rana,21,2
+74,Kolkata Knight Riders,TG Southee,N Rana,3,1
+75,Kolkata Knight Riders,LH Ferguson,N Rana,0,4
+,,,,,
+76,Kolkata Knight Riders,VR Iyer,Shubman Gill,10,7
+77,Kolkata Knight Riders,RA Tripathi,VR Iyer,34,37
+78,Kolkata Knight Riders,N Rana,VR Iyer,9,20
+79,Kolkata Knight Riders,EJG Morgan,N Rana,2,2
+80,Kolkata Knight Riders,KD Karthik,N Rana,5,20
+81,Kolkata Knight Riders,KD Karthik,TL Seifert,1,2
+82,Kolkata Knight Riders,KD Karthik,SP Narine,5,3
+,,,,,
+83,Kolkata Knight Riders,VR Iyer,Shubman Gill,8,115
+84,Kolkata Knight Riders,RA Tripathi,Shubman Gill,7,8
+85,Kolkata Knight Riders,N Rana,Shubman Gill,19,34
+86,Kolkata Knight Riders,KD Karthik,N Rana,7,6
+87,Kolkata Knight Riders,KD Karthik,EJG Morgan,11,2
+,,,,,
+88,Kolkata Knight Riders,VR Iyer,Shubman Gill,38,35
+89,Kolkata Knight Riders,N Rana,Shubman Gill,12,1
+90,Kolkata Knight Riders,RA Tripathi,Shubman Gill,19,20
+91,Kolkata Knight Riders,KD Karthik,RA Tripathi,10,2
+92,Kolkata Knight Riders,KD Karthik,EJG Morgan,4,13
+,,,,,
+93,Kolkata Knight Riders,VR Iyer,Shubman Gill,12,29
+94,Kolkata Knight Riders,RA Tripathi,VR Iyer,6,6
+95,Kolkata Knight Riders,N Rana,VR Iyer,17,8
+96,Kolkata Knight Riders,SP Narine,N Rana,22,6
+97,Kolkata Knight Riders,EJG Morgan,SP Narine,10,4
+98,Kolkata Knight Riders,KD Karthik,EJG Morgan,0,1
+99,Kolkata Knight Riders,EJG Morgan,Shakib Al Hasan,4,9
+,,,,,
+100,Kolkata Knight Riders,VR Iyer,Shubman Gill,55,31
+101,Kolkata Knight Riders,N Rana,Shubman Gill,13,14
+102,Kolkata Knight Riders,RA Tripathi,Shubman Gill,1,1
+103,Kolkata Knight Riders,KD Karthik,RA Tripathi,0,1
+104,Kolkata Knight Riders,EJG Morgan,RA Tripathi,0,3
+105,Kolkata Knight Riders,Shakib Al Hasan,RA Tripathi,0,1
+106,Kolkata Knight Riders,SP Narine,RA Tripathi,0,0
+107,Kolkata Knight Riders,RA Tripathi,LH Ferguson,6,0
+,,,,,
+108,Kolkata Knight Riders,VR Iyer,Shubman Gill,50,39
+109,Kolkata Knight Riders,N Rana,Shubman Gill,0,1
+110,Kolkata Knight Riders,SP Narine,Shubman Gill,2,1
+111,Kolkata Knight Riders,EJG Morgan,Shubman Gill,1,10
+112,Kolkata Knight Riders,KD Karthik,EJG Morgan,9,2
+113,Kolkata Knight Riders,EJG Morgan,Shakib Al Hasan,0,0
+114,Kolkata Knight Riders,EJG Morgan,RA Tripathi,1,2
+115,Kolkata Knight Riders,EJG Morgan,LH Ferguson,0,2
+116,Kolkata Knight Riders,LH Ferguson,Shivam Mavi,15,20
+117,Kolkata Knight Riders,LH Ferguson,CV Varun,1,0
+,,,,,
+118,Delhi Capitals,S Dhawan,PP Shaw,65,72
+119,Delhi Capitals,S Dhawan,RR Pant,20,7
+120,Delhi Capitals,MP Stoinis,RR Pant,14,4
+121,Delhi Capitals,SO Hetmyer,RR Pant,0,4
+,,,,,
+122,Delhi Capitals,S Dhawan,PP Shaw,3,2
+123,Delhi Capitals,S Dhawan,AM Rahane,6,5
+124,Delhi Capitals,AM Rahane,RR Pant,3,15
+125,Delhi Capitals,MP Stoinis,RR Pant,0,1
+126,Delhi Capitals,Lalit Yadav,RR Pant,14,35
+127,Delhi Capitals,TK Curran,Lalit Yadav,6,6
+128,Delhi Capitals,CR Woakes,TK Curran,13,15
+129,Delhi Capitals,R Ashwin,CR Woakes,6,0
+130,Delhi Capitals,CR Woakes,K Rabada,2,9
+,,,,,
+131,Delhi Capitals,S Dhawan,PP Shaw,26,32
+132,Delhi Capitals,S Dhawan,SPD Smith,38,9
+133,Delhi Capitals,S Dhawan,RR Pant,28,11
+134,Delhi Capitals,MP Stoinis,RR Pant,22,4
+135,Delhi Capitals,MP Stoinis,Lalit Yadav,5,12
+,,,,,
+136,Delhi Capitals,S Dhawan,PP Shaw,4,7
+137,Delhi Capitals,S Dhawan,SPD Smith,16,33
+138,Delhi Capitals,S Dhawan,Lalit Yadav,25,10
+139,Delhi Capitals,Lalit Yadav,RR Pant,6,7
+140,Delhi Capitals,SO Hetmyer,Lalit Yadav,14,6
+,,,,,
+141,Delhi Capitals,S Dhawan,PP Shaw,28,51
+142,Delhi Capitals,RR Pant,PP Shaw,1,2
+143,Delhi Capitals,SPD Smith,RR Pant,21,36
+144,Delhi Capitals,SPD Smith,SO Hetmyer,2,1
+145,Delhi Capitals,SPD Smith,MP Stoinis,11,2
+,,,,,
+146,Delhi Capitals,S Dhawan,PP Shaw,6,13
+147,Delhi Capitals,SPD Smith,PP Shaw,4,1
+148,Delhi Capitals,RR Pant,PP Shaw,12,7
+149,Delhi Capitals,MP Stoinis,RR Pant,22,21
+150,Delhi Capitals,SO Hetmyer,RR Pant,53,25
+,,,,,
+151,Delhi Capitals,S Dhawan,PP Shaw,46,82
+152,Delhi Capitals,RR Pant,PP Shaw,12,0
+153,Delhi Capitals,MP Stoinis,RR Pant,0,4
+154,Delhi Capitals,MP Stoinis,SO Hetmyer,6,0
+,,,,,
+155,Delhi Capitals,S Dhawan,PP Shaw,22,39
+156,Delhi Capitals,S Dhawan,SPD Smith,23,24
+157,Delhi Capitals,S Dhawan,RR Pant,22,14
+158,Delhi Capitals,S Dhawan,SO Hetmyer,2,16
+,,,,,
+159,Delhi Capitals,S Dhawan,PP Shaw,9,11
+160,Delhi Capitals,S Dhawan,SS Iyer,33,19
+161,Delhi Capitals,SS Iyer,RR Pant,28,35
+,,,,,
+162,Delhi Capitals,S Dhawan,PP Shaw,8,10
+163,Delhi Capitals,SS Iyer,PP Shaw,2,0
+164,Delhi Capitals,SS Iyer,RR Pant,37,24
+165,Delhi Capitals,SS Iyer,SO Hetmyer,4,3
+166,Delhi Capitals,SO Hetmyer,Lalit Yadav,25,4
+167,Delhi Capitals,AR Patel,Lalit Yadav,12,6
+168,Delhi Capitals,R Ashwin,Lalit Yadav,6,4
+,,,,,
+170,Delhi Capitals,S Dhawan,SPD Smith,24,11
+171,Delhi Capitals,SPD Smith,SS Iyer,3,1
+172,Delhi Capitals,SPD Smith,RR Pant,25,11
+173,Delhi Capitals,SO Hetmyer,RR Pant,4,7
+174,Delhi Capitals,Lalit Yadav,RR Pant,0,1
+175,Delhi Capitals,AR Patel,RR Pant,0,1
+176,Delhi Capitals,R Ashwin,RR Pant,9,18
+177,Delhi Capitals,K Rabada,RR Pant,0,0
+178,Delhi Capitals,K Rabada,Avesh Khan,0,5
+,,,,,
+179,Delhi Capitals,S Dhawan,PP Shaw,8,6
+180,Delhi Capitals,SPD Smith,PP Shaw,1,0
+181,Delhi Capitals,SPD Smith,RR Pant,8,7
+182,Delhi Capitals,SS Iyer,RR Pant,7,19
+183,Delhi Capitals,AR Patel,SS Iyer,9,8
+184,Delhi Capitals,SS Iyer,SO Hetmyer,1,15
+185,Delhi Capitals,R Ashwin,SS Iyer,20,17
+,,,,,
+186,Delhi Capitals,S Dhawan,PP Shaw,4,18
+187,Delhi Capitals,S Dhawan,SS Iyer,25,2
+188,Delhi Capitals,S Dhawan,RR Pant,3,15
+189,Delhi Capitals,S Dhawan,RV Patel,4,18
+190,Delhi Capitals,R Ashwin,S Dhawan,2,3
+191,Delhi Capitals,S Dhawan,SO Hetmyer,0,1
+192,Delhi Capitals,AR Patel,SO Hetmyer,5,27
+193,Delhi Capitals,K Rabada,SO Hetmyer,4,0
+,,,,,
+194,Delhi Capitals,S Dhawan,PP Shaw,45,40
+195,Delhi Capitals,RR Pant,PP Shaw,5,8
+196,Delhi Capitals,SS Iyer,RR Pant,2,5
+197,Delhi Capitals,SS Iyer,SO Hetmyer,16,17
+198,Delhi Capitals,SO Hetmyer,RV Patel,12,7
+,,,,,
+199,Delhi Capitals,S Dhawan,PP Shaw,7,29
+200,Delhi Capitals,SS Iyer,PP Shaw,1,13
+201,Delhi Capitals,AR Patel,PP Shaw,10,17
+202,Delhi Capitals,RR Pant,PP Shaw,2,1
+203,Delhi Capitals,SO Hetmyer,RR Pant,37,40
+204,Delhi Capitals,TK Curran,RR Pant,0,9
+,,,,,
+205,Delhi Capitals,S Dhawan,PP Shaw,14,18
+206,Delhi Capitals,S Dhawan,MP Stoinis,18,18
+207,Delhi Capitals,S Dhawan,SS Iyer,4,8
+208,Delhi Capitals,SS Iyer,RR Pant,1,6
+209,Delhi Capitals,SS Iyer,SO Hetmyer,7,17
+210,Delhi Capitals,AR Patel,SS Iyer,4,14
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,

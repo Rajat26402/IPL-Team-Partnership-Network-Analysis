@@ -1,0 +1,35 @@
+,p1,p2,r1,r2,lead,follower,larger_score,total_score,performance
+0,F du Plessis,RD Gaikwad,20.0,17.0,F du Plessis,RD Gaikwad,20.0,37.0,0.5403944879762227
+1,MM Ali,RD Gaikwad,5.5,10.0,RD Gaikwad,MM Ali,10.0,15.5,0.6447453255963894
+2,SK Raina,MM Ali,24.0,9.0,SK Raina,MM Ali,24.0,33.0,0.7270524083611027
+3,AT Rayudu,SK Raina,16.5,10.5,AT Rayudu,SK Raina,16.5,27.0,0.6108848574601999
+4,SK Raina,RA Jadeja,7.0,3.0,SK Raina,RA Jadeja,7.0,10.0,0.6993006993006993
+5,MS Dhoni,RA Jadeja,2.0,0.0,MS Dhoni,RA Jadeja,2.0,2.0,0.9950248756218907
+6,RA Jadeja,SM Curran,16.0,12.0,RA Jadeja,SM Curran,16.0,28.0,0.5712245626561941
+7,MM Ali,F du Plessis,14.5,17.5,F du Plessis,MM Ali,17.5,32.0,0.5467041549515776
+8,SK Raina,F du Plessis,1.5,5.0,F du Plessis,SK Raina,5.0,6.5,0.7680491551459294
+9,AT Rayudu,F du Plessis,0.5,0.0,AT Rayudu,F du Plessis,0.5,0.5,0.9803921568627451
+10,F du Plessis,SM Curran,3.0,5.0,SM Curran,F du Plessis,5.0,8.0,0.6242197253433208
+11,DJ Bravo,SM Curran,8.0,1.0,DJ Bravo,SM Curran,8.0,9.0,0.8879023307436182
+12,DJ Bravo,SN Thakur,4.0,1.0,DJ Bravo,SN Thakur,4.0,5.0,0.7984031936127745
+13,DJ Bravo,DL Chahar,8.0,0.0,DJ Bravo,DL Chahar,8.0,8.0,0.9987515605493134
+14,MS Dhoni,F du Plessis,10.0,14.5,F du Plessis,MS Dhoni,14.5,24.5,0.591595267237862
+15,F du Plessis,RA Jadeja,13.0,6.0,F du Plessis,RA Jadeja,13.0,19.0,0.6838506049447659
+16,AT Rayudu,RA Jadeja,14.0,17.0,RA Jadeja,AT Rayudu,17.0,31.0,0.5482102547565301
+17,AT Rayudu,RD Gaikwad,1.0,1.0,AT Rayudu,RD Gaikwad,1.0,2.0,0.49751243781094534
+18,SK Raina,RD Gaikwad,3.5,3.5,SK Raina,RD Gaikwad,3.5,7.0,0.49928673323823114
+19,MS Dhoni,RD Gaikwad,3.0,14.0,RD Gaikwad,MS Dhoni,14.0,17.0,0.8230452674897119
+20,RA Jadeja,RD Gaikwad,29.0,34.0,RD Gaikwad,RA Jadeja,34.0,63.0,0.5395968893826377
+21,DJ Bravo,RD Gaikwad,23.0,15.0,DJ Bravo,RD Gaikwad,23.0,38.0,0.6051039200210471
+22,SN Thakur,RD Gaikwad,6.5,0.5,SN Thakur,RD Gaikwad,6.5,7.0,0.927246790299572
+23,AT Rayudu,MM Ali,16.0,14.5,AT Rayudu,MM Ali,16.0,30.5,0.5244182235332677
+24,MS Dhoni,SK Raina,6.0,7.0,SK Raina,MS Dhoni,7.0,13.0,0.5380476556495004
+25,RA Jadeja,SN Thakur,0.0,3.0,SN Thakur,RA Jadeja,3.0,3.0,0.9966777408637875
+26,DL Chahar,SN Thakur,1.0,0.0,DL Chahar,SN Thakur,1.0,1.0,0.9900990099009901
+27,MS Dhoni,AT Rayudu,33.5,16.0,MS Dhoni,AT Rayudu,33.5,49.5,0.6766309836396688
+28,RV Uthappa,RD Gaikwad,25.5,34.0,RD Gaikwad,RV Uthappa,34.0,59.5,0.5713325491514032
+29,RV Uthappa,MM Ali,5.0,13.0,MM Ali,RV Uthappa,13.0,18.0,0.7218212104386451
+30,RV Uthappa,AT Rayudu,2.0,1.0,RV Uthappa,AT Rayudu,2.0,3.0,0.6644518272425249
+31,RV Uthappa,F du Plessis,15.5,16.5,F du Plessis,RV Uthappa,16.5,32.0,0.5154639175257733
+32,DJ Bravo,RA Jadeja,4.0,1.0,DJ Bravo,RA Jadeja,4.0,5.0,0.7984031936127745
+33,MS Dhoni,MM Ali,5.0,6.0,MM Ali,MS Dhoni,6.0,11.0,0.5449591280653951

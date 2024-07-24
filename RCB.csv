@@ -1,0 +1,51 @@
+,p1,p2,r1,r2,lead,follower,larger_score,total_score,performance
+0,V Kohli,Washington Sundar,19.0,10.0,V Kohli,Washington Sundar,19.0,29.0,0.6549465701482247
+1,V Kohli,RM Patidar,11.5,12.0,RM Patidar,V Kohli,12.0,23.5,0.5104210974053593
+2,V Kohli,GJ Maxwell,30.5,13.0,V Kohli,GJ Maxwell,30.5,43.5,0.7009882785566537
+3,AB de Villiers,GJ Maxwell,4.0,12.0,GJ Maxwell,AB de Villiers,12.0,16.0,0.7495315427857588
+4,AB de Villiers,Shabhaz Ahmed,3.0,7.5,Shabhaz Ahmed,AB de Villiers,7.5,10.5,0.7136060894386299
+5,DT Christian,AB de Villiers,1.0,1.0,DT Christian,AB de Villiers,1.0,2.0,0.49751243781094534
+6,AB de Villiers,KA Jamieson,26.0,4.0,AB de Villiers,KA Jamieson,26.0,30.0,0.866377874041986
+7,AB de Villiers,HV Patel,2.0,3.0,HV Patel,AB de Villiers,3.0,5.0,0.5988023952095809
+8,HV Patel,Mohammed Siraj,3.0,1.0,HV Patel,Mohammed Siraj,3.0,4.0,0.7481296758104738
+9,V Kohli,D Padikkal,14.0,10.0,V Kohli,D Padikkal,14.0,24.0,0.5830903790087463
+10,V Kohli,Shabhaz Ahmed,14.0,13.0,V Kohli,Shabhaz Ahmed,14.0,27.0,0.518326545723806
+11,GJ Maxwell,Washington Sundar,6.0,4.5,GJ Maxwell,Washington Sundar,6.0,10.5,0.570884871550904
+12,DT Christian,GJ Maxwell,1.0,3.0,GJ Maxwell,DT Christian,3.0,4.0,0.7481296758104738
+13,GJ Maxwell,KA Jamieson,14.0,12.0,GJ Maxwell,KA Jamieson,14.0,26.0,0.5382545174932718
+14,GJ Maxwell,HV Patel,6.0,1.0,GJ Maxwell,HV Patel,6.0,7.0,0.8559201141226819
+15,RM Patidar,D Padikkal,1.0,0.5,RM Patidar,D Padikkal,1.0,1.5,0.6622516556291391
+16,GJ Maxwell,D Padikkal,7.5,21.5,D Padikkal,GJ Maxwell,21.5,29.0,0.7411237504308859
+17,Washington Sundar,D Padikkal,2.0,6.0,D Padikkal,Washington Sundar,6.0,8.0,0.7490636704119851
+18,HV Patel,KA Jamieson,7.0,5.0,HV Patel,KA Jamieson,7.0,12.0,0.5828476269775188
+19,KA Jamieson,NA Saini,2.0,2.0,KA Jamieson,NA Saini,2.0,4.0,0.49875311720698257
+20,YS Chahal,KA Jamieson,8.0,1.0,YS Chahal,KA Jamieson,8.0,9.0,0.8879023307436182
+21,YS Chahal,Mohammed Siraj,9.0,4.5,YS Chahal,Mohammed Siraj,9.0,13.5,0.6661732050333087
+22,GJ Maxwell,RM Patidar,12.5,2.5,GJ Maxwell,RM Patidar,12.5,15.0,0.832778147901399
+23,AB de Villiers,RM Patidar,15.5,14.0,AB de Villiers,RM Patidar,15.5,29.5,0.5252456794307014
+24,AB de Villiers,Washington Sundar,19.0,6.0,AB de Villiers,Washington Sundar,19.0,25.0,0.7596961215513794
+25,AB de Villiers,DR Sams,28.0,3.0,AB de Villiers,DR Sams,28.0,31.0,0.9029345372460497
+26,RM Patidar,Shabhaz Ahmed,14.0,6.0,RM Patidar,Shabhaz Ahmed,14.0,20.0,0.6996501749125437
+27,DR Sams,Shabhaz Ahmed,3.0,2.0,DR Sams,Shabhaz Ahmed,3.0,5.0,0.5988023952095809
+28,KA Jamieson,DR Sams,0.0,0.0,KA Jamieson,DR Sams,0.0,0.0,0.0
+29,KA Jamieson,Mohammed Siraj,1.0,0.0,KA Jamieson,Mohammed Siraj,1.0,1.0,0.9900990099009901
+30,KS Bharat,D Padikkal,12.5,11.5,KS Bharat,D Padikkal,12.5,24.0,0.5206164098292377
+31,GJ Maxwell,KS Bharat,28.0,39.0,KS Bharat,GJ Maxwell,39.0,67.0,0.5820026861662438
+32,GJ Maxwell,Sachin Baby,4.0,6.0,Sachin Baby,GJ Maxwell,6.0,10.0,0.5994005994005994
+33,Sachin Baby,PWH de Silva,0.0,0.0,Sachin Baby,PWH de Silva,0.0,0.0,0.0
+34,Sachin Baby,KA Jamieson,2.0,1.0,Sachin Baby,KA Jamieson,2.0,3.0,0.6644518272425249
+35,AB de Villiers,D Padikkal,9.5,12.5,D Padikkal,AB de Villiers,12.5,22.0,0.5679236710586096
+36,GJ Maxwell,TH David,9.0,1.0,GJ Maxwell,TH David,9.0,10.0,0.8991008991008991
+37,HV Patel,PWH de Silva,1.0,1.0,HV Patel,PWH de Silva,1.0,2.0,0.49751243781094534
+38,V Kohli,KS Bharat,7.0,7.5,KS Bharat,V Kohli,7.5,14.5,0.5168849069607168
+39,DT Christian,Shabhaz Ahmed,4.0,3.5,DT Christian,Shabhaz Ahmed,4.0,7.5,0.5326231691078562
+40,DT Christian,KA Jamieson,1.0,2.0,KA Jamieson,DT Christian,2.0,3.0,0.6644518272425249
+41,DT Christian,D Padikkal,5.0,0.5,DT Christian,D Padikkal,5.0,5.5,0.9074410163339384
+42,GJ Maxwell,Shabhaz Ahmed,4.5,4.5,GJ Maxwell,Shabhaz Ahmed,4.5,9.0,0.49944506104328523
+43,KS Bharat,Shabhaz Ahmed,0.0,6.0,Shabhaz Ahmed,KS Bharat,6.0,6.0,0.9983361064891847
+44,KS Bharat,GHS Garton,0.0,0.0,KS Bharat,GHS Garton,0.0,0.0,0.0
+45,HV Patel,KS Bharat,1.0,0.0,HV Patel,KS Bharat,1.0,1.0,0.9900990099009901
+46,AB de Villiers,GHS Garton,7.0,2.0,AB de Villiers,GHS Garton,7.0,9.0,0.7769145394006659
+47,AB de Villiers,KS Bharat,26.0,22.0,AB de Villiers,KS Bharat,26.0,48.0,0.5415538429493856
+48,DT Christian,HV Patel,1.0,6.0,HV Patel,DT Christian,6.0,7.0,0.8559201141226819
+49,HV Patel,GHS Garton,0.0,2.0,GHS Garton,HV Patel,2.0,2.0,0.9950248756218907
